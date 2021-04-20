@@ -32,6 +32,7 @@
 
     <Button
         android:id="@+id/roll_button"
+        style="@style/Widget.MaterialComponents.Button.Icon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:icon="@drawable/coche"
